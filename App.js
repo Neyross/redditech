@@ -73,6 +73,7 @@ function App() {
           }}
           name="Search"
           component={SubReddit}
+        />
 
 
         <Tabs.Screen
